@@ -22,3 +22,7 @@ DHCP(config)#ip dhcp excluded-address 192.168.12.10 192.168.12.20
 Client(config)#interface fastEthernet 0/0
 Client(config-if)#ip address dhcp
 Client(config-if)#no shutdown
+
+
+[[Gateway For Cisco Switch]] Gateway for Cisco Switch
+[[switch_backup_and_restore]] switch_backup_and_restore
