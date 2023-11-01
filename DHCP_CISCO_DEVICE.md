@@ -24,5 +24,8 @@ Client(config-if)#ip address dhcp
 Client(config-if)#no shutdown
 
 
+Refs: https://www.skillsire.com/read-blog/432_how-dora-works-dora-process-in-details.html
+
+
 [[Gateway For Cisco Switch]] Gateway for Cisco Switch
 [[switch_backup_and_restore]] switch_backup_and_restore

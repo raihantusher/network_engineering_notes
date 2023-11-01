@@ -13,7 +13,7 @@ Since spanning tree is enabled, all our switches will send a special frame to ea
 “Bridge Protocol Data Unit”
 
 
-Bridge ID = MAC address + Priority.\
+Bridge ID = MAC address + Priority
 
 
 
