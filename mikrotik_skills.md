@@ -12,6 +12,8 @@ id: 20231026100231
 4. NAT
    *  Static NAT
    *  Dynamic NAT
+       *  https://www.youtube.com/watch?v=Cv3oeY_Qb1Q [ src-nat, dynamic-nat ]
+       *  https://www.youtube.com/watch?v=GTDgeZLc190  [ src-nat, dynamic-nat, redirecting ]
    *  PAT
 5. DHCP
 6. Traceroute
@@ -23,6 +25,6 @@ id: 20231026100231
 12. Mangle
 13. OSPF Single Area
 14. OSPF MultiArea
-15. 
-16. 
+15. Simple Queue, [ https://www.youtube.com/watch?v=qWt0yh0udOw ]
+16. QoS [ https://www.youtube.com/watch?v=JKeyrecL3uc ]
 	
