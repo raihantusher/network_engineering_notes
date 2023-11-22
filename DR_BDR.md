@@ -11,3 +11,7 @@ All router sends their LSA packet to multicast address 224.0.0.6. DR router list
 Then DR send this data to all router through 224.0.0.5 multicast address.
 
 ## How to determine Designated Router
+    *  max router id
+    * max interface ip
+
+    
